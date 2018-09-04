@@ -1,5 +1,6 @@
 <?php
  require('oop.php');
+/* byethost: http://page123.byethost24.com/page.php */
 ?>
 <p>Admin login</p>
 <form method="post" action="autorizacija.php" style=" margin: 0 auto;">
